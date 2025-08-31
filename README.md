@@ -33,6 +33,7 @@ The project demonstrates:
 from google.colab import files
 files.upload()  # Upload kaggle.json
 
+```
 
 ### How to Run
 
